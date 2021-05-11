@@ -1,0 +1,5 @@
+insert into Alien values (1 ,'Apurva','java')
+insert into Alien values (2 ,'d','java')
+insert into Alien values (3 ,'e','python')
+insert into Alien values (4 ,'f','Android')
+insert into Alien values (5 ,'g','java')
